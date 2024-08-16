@@ -1,1 +1,1 @@
-This is my first reppsitory
+This is my first repository
