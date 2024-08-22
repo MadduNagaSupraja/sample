@@ -1,1 +1,2 @@
-This is my first repository
+Welcome to GitHub session.
+This is my first repository.

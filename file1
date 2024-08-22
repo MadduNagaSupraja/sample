@@ -1,0 +1,5 @@
+def winning(input):
+   d={'rock':'paper','paper':'scissors','scissors':'rock'}
+   return d[input]
+inp='paper'
+print(winning(inp))
