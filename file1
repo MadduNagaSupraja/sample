@@ -3,3 +3,4 @@ def winning(input):
    return d[input]
 inp='paper'
 print(winning(inp))
+This is the codin question that i got in my coding round in accenture..
